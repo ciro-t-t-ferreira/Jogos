@@ -1,3 +1,3 @@
 # Jogos
 Jogos em python
-Jogos desenvolvidos com propósito didático
+Jogos desenvolvidos com propósito didático.
